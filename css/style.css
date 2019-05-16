@@ -1,0 +1,24 @@
+.dropdown-menu {
+    width: 1130px;
+}
+
+.navbar-brand {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.mega-menu {
+    margin: 0 -450px;
+}
+
+.navbar .dropdown-menu a {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 0;
+}
+
+.navbar .dropdown-menu h6 {
+    color: #ffc107!important;
+}
+
